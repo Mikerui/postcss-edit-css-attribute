@@ -1,6 +1,6 @@
 # postcss-edit-css-attribute
 
-[PostCSS] plugin 修改ccss的任意属性值.
+[PostCSS] plugin 修改css的任意属性值.
 
 [PostCSS]: https://github.com/postcss/postcss
 [插件地址]: https://github.com/Mikerui/postcss-edit-css-attribute.git
