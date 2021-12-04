@@ -3,6 +3,7 @@
 [PostCSS] plugin 修改ccss的任意属性值.
 
 [PostCSS]: https://github.com/postcss/postcss
+[插件地址]: https://github.com/Mikerui/postcss-edit-css-attribute.git
 
 ```css
 .foo {
